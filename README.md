@@ -26,7 +26,7 @@ The project follows the CRISP-DM methodology, emphasizing data quality and model
 Future work involves improving accuracy through dataset expansion, adding new amenity types, integrating with Airbnb, implementing color detection, developing a mobile application, and incorporating localization features. These enhancements aim to address current limitations and broaden the tool's scope.
 
 **Contributions and Impacts on Society:** <br>
-The project's impact extends beyond property management, potentially transforming inventory management across sectors, enhancing efficiency, safety, and operational processes in various industries.
+The project's impact extends beyond property management, potentially transforming inventory management across sectors, enhancing efficiency, safety, and operational processes in various industries
 
 
 # Authors: Nilisha Makam Prashantha, Joshnadevi Vadapalli, Sangamithra Murugesan, Faiza Ayoun
